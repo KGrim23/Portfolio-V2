@@ -299,11 +299,6 @@ input{
 
 
  @media only screen and (max-width: 390px){
-
-  *{
-    overflow: hidden;
-  }
-
   body{
     box-sizing: border-box;
     margin-top: 10px;
